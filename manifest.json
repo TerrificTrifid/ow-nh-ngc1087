@@ -3,7 +3,7 @@
   "author": "TerrificTrifid",
   "name": "Galaxy Skybox: NGC 1087",
   "uniqueName": "TerrificTrifid.NGC1087",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "owmlVersion": "2.1.0",
   "dependencies": [ "xen.NewHorizons" ]
 }
