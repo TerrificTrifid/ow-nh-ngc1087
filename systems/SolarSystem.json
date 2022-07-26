@@ -1,0 +1,13 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
+	"Skybox": {
+		"destroyStarField": false,
+		"useCube": true,
+		"rightPath": "planets/sky_pos_x.jpg",
+		"leftPath": "planets/sky_neg_x.jpg",
+		"topPath": "planets/sky_pos_y.jpg",
+		"bottomPath": "planets/sky_neg_y.jpg",
+		"frontPath": "planets/sky_pos_z.jpg",
+		"backPath": "planets/sky_neg_z.jpg"
+	}
+}
